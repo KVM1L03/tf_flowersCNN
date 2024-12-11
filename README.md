@@ -2,6 +2,9 @@
 
 This notebook shows how to build a Convolutional Neural Network (CNN) for flower classification using TensorFlow and Keras Tuner. It uses the `tf_flowers` dataset, which contains images of five different flower types: dandelion, daisy, tulips, sunflowers, and roses.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PrHbV1oTRiSDNa7EvHqjnHYQwq2oo1lt?usp=sharing)
+
+
 ## Notebook Structure
 
 The notebook is organized into the following sections:
